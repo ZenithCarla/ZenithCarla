@@ -18,4 +18,4 @@
 
 [![Linkedin: Zenith Carla Ferreira](https://img.shields.io/badge/-ZenithCarlaFerreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zenith-carla-ferreira-8b09b751/)](https://www.linkedin.com/in/zenith-carla-ferreira-8b09b751/)
 [![Gmail Badge](https://img.shields.io/badge/-zenithcarla@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zenithcarla@gmail.com)](mailto:zenithcarla@gmail.com)
-[![ZenithCarla]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/ZenithCarla)
+[![ZenithCarla]( https://img.shields.io/github/followers/ZenithCarla?label=follow&style=social)](https://github.com/ZenithCarla)
