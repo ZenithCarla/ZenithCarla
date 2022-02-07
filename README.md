@@ -1,4 +1,4 @@
-#zenithcarla
+
 <p align="left"> 
   Me chamo Zenith Carla, sou <strong>Desenvolvedora Front-End</strong>.<br>
   Ainda em processo de aprendizagem de algumas linguagens, desbravando o mundo da tecnologia.
